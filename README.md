@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hasan1985247
-- 👀 I’m interested in 
+- 👀 I’m interested in fullstacking and Java
 - 🌱 I’m currently learning java and OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

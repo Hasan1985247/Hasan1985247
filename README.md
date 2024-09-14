@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hasan
-- 👀 I’m interested in fullstacking and Java
-- 🌱 I’m currently learning java and OOP
+- 👋 Hi, I’m Hasan
+- 👀 I’m interested in fullstacking, Java programming ,and agile methodology.
+- 🌱 I’m currently learning java in OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
